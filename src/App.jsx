@@ -1,5 +1,6 @@
 // import React from 'react';
-import { Navbar,Hero,Stats,Business,Billing,CardDeal,Testimonials,Clients,Cta, Footer  } from "./components"
+// import { Navbar,Hero,Stats,Business,Billing,CardDeal,Testimonials,Clients,Cta, Footer  } from "./components"
+import { Navbar,Hero,Stats,Business,Billing,CardDeal,Testimonials,Clients, Cta,Footer } from "./components"
 import styles from "./style"
 const App = () => {
   return (

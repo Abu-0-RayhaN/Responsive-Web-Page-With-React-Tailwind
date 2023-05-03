@@ -3,7 +3,7 @@
 const Hero = () => {
   return (
     <div>
-      <p>hero section</p>
+      <p className="text-white">hero section</p>
     </div>
   )
 }

@@ -3,7 +3,7 @@
 const Business = () => {
   return (
     <div>
-      <p>hello world</p>
+      <p>hello world Business</p>
     </div>
   )
 }
